@@ -1,5 +1,6 @@
 # ccgit
 Creating a git system for Adobe Creative Cloud applications and systems.
+ccgit is in pre-production research stages currently.
 
 ## Main goals
 
@@ -7,3 +8,7 @@ Creating a git system for Adobe Creative Cloud applications and systems.
 2. introducing git version control as a system to graphic designers
 3. finding or creating the most effective open source licenses for design files
 4. making it easier for designers to share and collaborate on .PSD and .AI files without needing to render and export images
+
+## TODO
+
+- [ ] 
