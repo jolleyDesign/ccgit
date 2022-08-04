@@ -1,6 +1,6 @@
 # ccgit
 Creating a git system for Adobe Creative Cloud applications and systems.
-ccgit is in pre-production research stages currently.
+*ccgit is in pre-production research stages currently.*
 
 ## Main goals
 
