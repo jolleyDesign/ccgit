@@ -1,2 +1,2 @@
 # ccgit
-### Creating a git system for Adobe Creative Cloud applications and systems.
+Creating a git system for Adobe Creative Cloud applications and systems
